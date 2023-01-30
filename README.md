@@ -11,7 +11,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavobaltazar&label=Profile%20views&color=0e75b6&style=flat" alt="gustavobaltazar" /> </p>
  
  <div>
-  <img align="right" alt="Coding" width="510" src="https://giffiles.alphacoders.com/359/35995.gif">
+  <img align="right" alt="Coding" width="500" src="https://giffiles.alphacoders.com/359/35995.gif">
 </div>
 
  ```javascript
