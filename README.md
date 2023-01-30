@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  <h3> Working at BOSCH GmbH </h2>
+  <h3> Working at Bosch GmbH </h2>
   <h3> Grinding☕ </h2>
   
 </div>
