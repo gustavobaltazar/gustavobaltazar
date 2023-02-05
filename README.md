@@ -5,6 +5,7 @@
   <h3> Working at Bosch GmbH </h2>
   <h3> Grinding☕ </h2>
   
+  
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/1fZF.gif"> 
