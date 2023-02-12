@@ -18,6 +18,8 @@
 const profile = {
   name: "Gustavo Baltazar",
   game: "The Last of Us II",
+  anime: "Shingeki no Kyojin",
+  manga: "Berserk",
   tech: {
     programming: ['TS'],
     frontend: ['React', 'Tailwindcss'],
